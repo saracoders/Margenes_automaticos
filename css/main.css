@@ -1,0 +1,14 @@
+/* Escribe aqui tu CSS */
+div {
+	border: 8px yellow solid;
+    width: 200px;
+    padding: 30px;
+}
+
+p {
+	margin: auto:;
+}
+
+.centro {
+	margin: 10px auto;
+}
